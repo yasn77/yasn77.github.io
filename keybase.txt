@@ -1,0 +1,62 @@
+==================================================================
+https://keybase.io/yasn77
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://unixuser.org.uk
+  * I am yasn77 (https://keybase.io/yasn77) on keybase.
+  * I have a public key ASBLIMEqNrC6hpRzeqmX4DcVSnlb0pdflaTuJJHCShM4Swo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01204b20c12a36b0ba8694737aa997e037154a795bd2975f95a4ee2491c24a13384b0a",
+            "host": "keybase.io",
+            "kid": "01204b20c12a36b0ba8694737aa997e037154a795bd2975f95a4ee2491c24a13384b0a",
+            "uid": "8508a1046e89acc60602ee1142a9d819",
+            "username": "yasn77"
+        },
+        "service": {
+            "hostname": "unixuser.org.uk",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.14"
+    },
+    "ctime": 1458754662,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1458754544,
+        "hash": "43e496713e557ad4cf02405b6373cb67fb094a1fb64699750112eeb892a09017babd1edc5d321154169a57e8bd7e937eb1d07b0bc29ac58b9145b0401a0c9695",
+        "seqno": 419618
+    },
+    "prev": "0a537c04bafc6e46e30c47c0d56289cc59b3a3b7d96888eafdf86220a192553f",
+    "seqno": 8,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+g6Rib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgSyDBKjawuoaUc3qpl+A3FUp5W9KXX5Wk7iSRwkoTOEsKp3BheWxvYWTFAvR7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNGIyMG
+MxMmEzNmIwYmE4Njk0NzM3YWE5OTdlMDM3MTU0YTc5NWJkMjk3NWY5NWE0ZWUyNDkxYzI0YTEzMzg0YjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNGIyMGMxMmEzNmIwYmE4Njk0NzM3YWE5
+OTdlMDM3MTU0YTc5NWJkMjk3NWY5NWE0ZWUyNDkxYzI0YTEzMzg0YjBhIiwidWlkIjoiODUwOGExMDQ2ZTg5YWNjNjA2MDJlZTExNDJhOWQ4MTkiLCJ1c2VybmFtZSI6Inlhc243NyJ9LCJzZXJ2aWNlIjp7Im
+hvc3RuYW1lIjoidW5peHVzZXIub3JnLnVrIiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8g
+Z28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4xNCJ9LCJjdGltZSI6MTQ1ODc1NDY2MiwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDU4NzU0NTQ0LCJoYXNoIjoiNDNlND
+k2NzEzZTU1N2FkNGNmMDI0MDViNjM3M2NiNjdmYjA5NGExZmI2NDY5OTc1MDExMmVlYjg5MmEwOTAxN2JhYmQxZWRjNWQzMjExNTQxNjlhNTdlOGJkN2U5MzdlYjFkMDdiMGJjMjlhYzU4YjkxNDViMDQwMWEw
+Yzk2OTUiLCJzZXFubyI6NDE5NjE4fSwicHJldiI6IjBhNTM3YzA0YmFmYzZlNDZlMzBjNDdjMGQ1NjI4OWNjNTliM2EzYjdkOTY4ODhlYWZkZjg2MjIwYTE5MjU1M2YiLCJzZXFubyI6OCwidGFnIjoic2lnbm
+F0dXJlIn2jc2lnxEA4iF3H7V1n8o3M+m3UV4Br2CdLX4HYu0/tChkiGOqOj81mnlfn79lc5rARk4C30zkj8sRX71Ocr4BXlmLdFuoLqHNpZ190eXBlIKN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/yasn77
+
+==================================================================
+
