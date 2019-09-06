@@ -1,0 +1,75 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<title>Presentation by Yasser Saleemi</title>
+
+		<link rel="stylesheet" href="/gswrm-presentation/css/reset.css">
+		<link rel="stylesheet" href="/gswrm-presentation/css/reveal.css">
+    <link rel="stylesheet" href="/gswrm-presentation/css/theme/black.css" id="theme">
+    <link href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+
+		<!-- Theme used for syntax highlighting of code -->
+		<link rel="stylesheet" href="/gswrm-presentation/lib/css/monokai.css">
+
+		<!-- Printing and PDF exports -->
+		<script>
+			var link = document.createElement( 'link' );
+			link.rel = 'stylesheet';
+			link.type = 'text/css';
+			link.href = window.location.search.match( /print-pdf/gi ) ?  '/gswrm-presentation/css/print/pdf.css' : '/gswrm-presentation/css/print/paper.css';
+			document.getElementsByTagName( 'head' )[0].appendChild( link );
+		</script>
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+        <section data-markdown="/gswrm-presentation/introduction.md"
+          data-separator="^\n---\n$"
+          data-separator-vertical="^\n------\n$"
+          data-separator-notes="^Notes:"
+          data-charset="iso-8859-15">
+        </section>
+        <section data-markdown="/gswrm-presentation/slides_tf_vault.md"
+          data-separator="^\n---\n$"
+          data-separator-vertical="^\n------\n$"
+          data-separator-notes="^Notes:"
+          data-charset="iso-8859-15">
+        </section>
+        <section data-markdown="/gswrm-presentation/slides_dpi_is_bad.md"
+          data-separator="^\n---\n$"
+          data-separator-vertical="^\n------\n$"
+          data-separator-notes="^Notes:"
+          data-charset="iso-8859-15">
+        </section>
+        <section data-markdown="/gswrm-presentation/end.md"
+          data-separator="^\n---\n$"
+          data-separator-vertical="^\n------\n$"
+          data-separator-notes="^Notes:"
+          data-charset="iso-8859-15">
+        </section>
+			</div>
+		</div>
+
+		<script src="/gswrm-presentation/js/reveal.js"></script>
+
+		<script>
+			// More info about config & dependencies:
+			// - https://github.com/hakimel/reveal.js#configuration
+			// - https://github.com/hakimel/reveal.js#dependencies
+			Reveal.initialize({
+        markdown: {
+          smartypants: true
+        },
+				dependencies: [
+					{ src: '/gswrm-presentation/plugin/markdown/marked.js' },
+					{ src: '/gswrm-presentation/plugin/markdown/markdown.js' },
+					{ src: '/gswrm-presentation/plugin/notes/notes.js', async: true },
+					{ src: '/gswrm-presentation/plugin/highlight/highlight.js', async: true }
+				]
+			});
+		</script>
+	</body>
+</html>
